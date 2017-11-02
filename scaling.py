@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# 缩放
 # 改变图像尺寸
 import cv2
 import numpy as np
